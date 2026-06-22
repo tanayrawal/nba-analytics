@@ -7,6 +7,7 @@ A simple project for analyzing NBA data using Python.
 - NBA datasets
 - Jupyter notebooks
 -Test
+-testing
 
 ## Files
 - `test.py` - sample script
