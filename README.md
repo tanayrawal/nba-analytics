@@ -1,8 +1,1 @@
-# NBA Analytics
-
-A simple project for analyzing NBA data.
-
-add text here
-
-## Author
-Tanay Rawal
+A simple project for analyzing NBA data to predict player points in their next game.
